@@ -25,6 +25,18 @@ I`m not the person you are waiting for !
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleturbo)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### :woman_technologist: About Me :
+
+- :telescope: I’m working as a Software Engineer Student and doing noting but eating.
+
+- :seedling: Exploring New Continent.
+
+- :zap: In my free time, I drive.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
